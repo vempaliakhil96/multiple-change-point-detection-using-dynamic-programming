@@ -1,4 +1,4 @@
-# multiple-change-point-detection-using-dynamic-programming
+# Change Point detection using dynamic programming
 
 This notebook contains python implementation of multiple change point detection using dynamic programming.
 Langauage used is Python 2.7
